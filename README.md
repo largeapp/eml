@@ -5,7 +5,7 @@ See the following publications for examples of this code in use:
 * Jinlong Hu, Yaqian Hou, Bo Peng, Bin Liao, Ziyun Xu, Gangqiang Hou, Shoubin Dong, Identifying major depressive disorder based on cerebral blood flow and brain structure: An explainable multimodal learning study, under review.
 
 ### Code
-[fcnn_train.py](fcnn_train.py) is the code for fcnn model. 
-[svm_rf_train.py](svm_rf_train.py) is the code for SVM and RF model. 
+[fcnn_train.py](fcnn_train.py) is the code for fcnn model.  
+[svm_rf_train.py](svm_rf_train.py) is the code for SVM and RF model.  
 [soft_voting.py](soft_voting.py) is the code for soft voting.  
 [pipe_ML.py](pipe_ML.py) is the code for pipeline of learning.  
