@@ -1,4 +1,4 @@
-# Multimodal MRI learning for brain disorders
+### Multimodal MRI learning for brain disorders
 This is a repository of codes and experiment results on explainable multimodal MRI learning for brain disorders.
 ### Publications
 See the following publications for examples of this code in use:
