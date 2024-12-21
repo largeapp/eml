@@ -9,3 +9,5 @@ See the following publications for examples of this code in use:
 [svm_rf_train.py](svm_rf_train.py) is the code for SVM and RF model.  
 [soft_voting.py](soft_voting.py) is the code for soft voting.  
 [pipe_ML.py](pipe_ML.py) is the code for pipeline of learning.  
+[shap.py](shap.py) is the code for SHAP values.  
+[permutate_interaction.py](permutate_interaction.py) is the code for feature interaction.  
