@@ -1,7 +1,5 @@
 ### Multimodal MRI learning for brain disorders
-This is a repository of codes and experiment results on explainable multimodal MRI learning for brain disorders.
-
-Our research collection on artificial intelligence for brain image analysis is available on [this page](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
+This is a repository of codes and experiment results on explainable multimodal MRI learning for brain disorders. Our research collection on artificial intelligence for brain image analysis is available on [this page](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
 
 ### Publications
 See the following publications for examples of this code in use:
