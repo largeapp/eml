@@ -1,5 +1,8 @@
 ### Multimodal MRI learning for brain disorders
 This is a repository of codes and experiment results on explainable multimodal MRI learning for brain disorders.
+
+Our research collection on artificial intelligence for brain image analysis is available on [this page](https://github.com/largeapp/AI-for-Brain-Image-Analysis).
+
 ### Publications
 See the following publications for examples of this code in use:
 * Jinlong Hu, Yaqian Hou, Bo Peng, Bin Liao, Ziyun Xu, Gangqiang Hou, Shoubin Dong, Identifying major depressive disorder based on cerebral blood flow and brain structure: An explainable multimodal learning study, under review.
