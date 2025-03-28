@@ -5,7 +5,7 @@ Our research collection on artificial intelligence for brain image analysis is a
 
 ### Publications
 See the following publications for examples of this code in use:
-* Jinlong Hu, Yaqian Hou, Bo Peng, Bin Liao, Ziyun Xu, Gangqiang Hou, Shoubin Dong, Identifying major depressive disorder based on cerebral blood flow and brain structure: An explainable multimodal learning study, under review.
+* Jinlong Hu, Yaqian Hou, Bo Peng, Bin Liao, Ziyun Xu, Gangqiang Hou, Shoubin Dong, Identifying major depressive disorder based on cerebral blood flow and brain structure: An explainable multimodal learning study, Journal of Psychiatric Research, January 2025.
 
 ### Code
 [fcnn_train.py](fcnn_train.py) is the code for fcnn model.  
